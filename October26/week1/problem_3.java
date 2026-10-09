@@ -10,7 +10,6 @@ public class problem_3 {
         int num = mysc.nextInt();
         int check = num;
 
-        //method1
         int rev = 0;
 
         while (num != 0){
